@@ -1,0 +1,51 @@
+.ABC
+{
+	color: red;
+}
+input
+{
+	width: 300px;
+	height: 40px;
+	margin-left: 100px;
+	margin-bottom: 20px;
+	border:none; 
+	border-bottom: solid black;
+	position: relative;
+	background: transparent;
+}
+.log-in
+{
+	border-style: double;
+	border-width: 11px;
+	margin:auto;
+	width: 300px;
+}
+button
+{
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: skyblue;
+	padding: 20px 125px; 
+	cursor: pointer;
+	font-family: 'Charm', cursive;
+}
+.new-user
+{
+	margin-left: 100px;
+}
+.forget-password
+{
+	margin-left: 20px;	
+}
+
+body
+{
+	background : url(https://rainbow-int-franchise.co.uk/wp-content/uploads/read-3048651_1920-1000x591.jpg);
+	background-size: 1600px;
+}
+.hover-example:hover 
+{
+	padding: 20px 127px;
+	font-weight: bold;
+	font-family: 'Charm', cursive;	
+}
